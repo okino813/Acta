@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Acta</string>
+
+    <!-- Settings page -->
+    <string name="settings_title">Paramêtres</string>
+    <string name="subtitle_appearance">Apparance</string>
+
+    <string name="theme_appearance">Thême</string>
+    <string name="dark_appearance">Sombre</string>
+    <string name="light_appearance">Clair</string>
+    <string name="none_appearance">Non définie</string>
+
+    <string name="language_appearance">Langue</string>
+
+    <!-- Home page -->
+    <string name="home_title">Accueil</string>
+
+
+    <!-- Gallery page -->
+    <string name="gallery_title">Gallerie</string>
+</resources>
